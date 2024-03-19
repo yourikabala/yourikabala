@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**yourikabala/yourikabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+je m'appelle Youri Kabala 🙂
 
-Here are some ideas to get you started:
+Je suis passionné par les données, le marketing et le business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis diplômé d’un master en stratégie digitale et récement d’un MBA en big data et IA.
+
+J'aime rencontrer des gens qui partagent ma passion pour les données et j’apprécie encore plus partager ce que je sais ainsi que mon expérience avec eux.
+
+Ici, je partagerai mes prochains projets qui me permettront de développer mes compétences dans le traitement et l'analyse des données.
+
+Si vous souhaitez me contacter :
+
+💼 Mail ➡️ yourikabs@gmail.com
+
+🚀 Linkedin ➡️ https://www.linkedin.com/in/youri-kabala/
