@@ -2,9 +2,9 @@
 
 je m'appelle Youri Kabala 🙂
 
-Je suis passionné par les données, le marketing et le business.
+Je suis passionné par les données et le business.
 
-Je suis diplômé d’un master en stratégie digitale et récement d’un MBA en big data et IA.
+Je suis diplômé d’un master en stratégie digitale et d’un MBA en big data et IA.
 
 J'aime rencontrer des gens qui partagent ma passion pour la data et j’apprécie encore plus partager ce que je sais ainsi que mon expérience avec eux.
 
