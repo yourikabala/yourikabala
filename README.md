@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-je m'appelle Youri Kabala 🙂
+Bonjour, je m'appelle Youri Kabala 🙂
 
-Je suis passionné par les données et le business.
+Je suis Data Analyst orienté performance business, avec une expérience en analyse de données dans des environnements B2B et B2C.
 
-Je suis diplômé d’un master en stratégie digitale et d’un MBA en big data et IA.
+Diplômé d’un Master en stratégie digitale et d’un MBA en Big Data & IA, je travaille aujourd’hui sur des sujets de pilotage de la performance, de production d’indicateurs et d’analyses permettant d’appuyer la prise de décision des équipes métier.
 
-J'aime rencontrer des gens qui partagent ma passion pour la data et j’apprécie encore plus partager ce que je sais ainsi que mon expérience avec eux.
+Technologies : SQL | Excel | Data Visualisation
 
-Ici, je partagerai mes prochains projets qui me permettront de développer mes compétences dans le traitement et l'analyse des données.
+Ce GitHub me permet de partager certains projets personnels autour de la data, notamment en analyse de données, SQL et visualisation.
 
-Si vous souhaitez me contacter :
+J’aime également échanger avec des personnes intéressées par la data et le business analytics.
+
+Si vous souhaitez me contacter :  
 
 💼 Mail ➡️ yourikabs@gmail.com
 
