@@ -2,7 +2,7 @@
 
 Bonjour, je m'appelle Youri Kabala 🙂
 
-Je suis Data Analyste orienté performance business, avec une expérience en analyse de données dans des environnements B2B et B2C.
+Je suis Data Analyst orienté performance business, avec une expérience en analyse de données dans des environnements B2B et B2C.
 
 Diplômé d’un Master en stratégie digitale et d’un MBA en Big Data & IA, je travaille aujourd’hui sur des sujets de pilotage de la performance, de production d’indicateurs et d’analyses permettant d’appuyer la prise de décision des équipes métier.
 
